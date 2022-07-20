@@ -1,13 +1,13 @@
 import { useContext } from "react";
 import Contador from "../Contador/contador";
 import { GlobalContext } from "../../Context/Global/global.context";
-import miimagen from "../../asesst/yo.jpg" 
-import iphp from "../../asesst/php.png"
-import icss from "../../asesst/css.png"
-import ihtml from "../../asesst/html.png"
-import ijava from "../../asesst/java.png"
+import miimagen from "../../assets/mi foto.jpg" 
+import iphp from "../../assets/php.png"
+import icss from "../../assets/css.png"
+import ihtml from "../../assets/html.png"
+import ijava from "../../assets/java.png"
 import { useTranslation } from "react-i18next";
-import imagen from "../../asesst/gorjeo.png" 
+import imagen from "../../assets/twitter.png" 
 
 
 function InformacionComponent() {
